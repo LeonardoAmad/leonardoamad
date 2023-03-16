@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hey there Leonardo Amad here 🇧🇷
 
-<!--
-**LeonardoAmad/leonardoamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img  height="182em" src="https://github-readme-stats.vercel.app/api?username=vinimelesque&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimelesque&layout=compact&langs_count=16&theme=react"/>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <div style="display: inline_block"> <br>
+    <h1 align="center">Languages that i'm learning </h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="androidstudio-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg">
+  </div>
+
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: leozinho.amad10@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://br.linkedin.com/in/leonardo-amad-497958266?trk=people-guest_people_search-card">
+      <img width="25" src="linkedin.svg">
+    </a>
+ 
+    <a href = "https://www.instagram.com/darkleek_/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
