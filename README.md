@@ -19,7 +19,7 @@
     <img align="center" height="30" width="40" alt="androidstudio-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg">
   </div>
 
-  <h1 align="center">Social Medias</h1>
+  <h1 align="center">Social Medias👨‍💻</h1>
     <a href = "mailto: leozinho.amad10@gmail.com">
       <img width="35" src="logogmaill.png">
     </a>
