@@ -21,7 +21,7 @@
 
   <h1 align="center">Social Midias</h1>
     <a href = "mailto: leozinho.amad10@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="logogmail.png">
     </a>
     <a href = "https://br.linkedin.com/in/leonardo-amad-497958266?trk=people-guest_people_search-card">
       <img width="25" src="logolinkedin.png">
