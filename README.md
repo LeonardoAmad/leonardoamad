@@ -27,6 +27,6 @@
       <img width="35" src="logolinkedin.png">
     </a>
     <a href = "https://www.instagram.com/darkleek_/">
-      <img width="35" src="logoinstagram.png">
+      <img width="35" src="instalogo.png">
     </a>
 </div>
