@@ -28,6 +28,6 @@
     </a>
  
     <a href = "https://www.instagram.com/darkleek_/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="logoinstagram.png">
     </a>
 </div>
