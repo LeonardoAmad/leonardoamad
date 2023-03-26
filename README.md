@@ -24,9 +24,9 @@
       <img width="35" src="logogmail.png">
     </a>
     <a href = "https://br.linkedin.com/in/leonardo-amad-497958266?trk=people-guest_people_search-card">
-      <img width="25" src="logolinkedin.png">
+      <img width="35" src="logolinkedin.png">
     </a>
     <a href = "https://www.instagram.com/darkleek_/">
-      <img width="25" src="logoinstagram.png">
+      <img width="35" src="logoinstagram.png">
     </a>
 </div>
