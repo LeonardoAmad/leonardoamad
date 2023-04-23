@@ -1,4 +1,4 @@
-## Hey there, Leonardo Amad here 🇧🇷</br>
+<center>## Hey there, Leonardo Amad here 🇧🇷</br></center>
 ## At moment i'm studying system development at ETEC Bento Quirino
   
        
