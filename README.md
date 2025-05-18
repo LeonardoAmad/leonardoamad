@@ -20,8 +20,23 @@
 
 <br/>
 
+<!-- Animated Wave SVG -->
+
 <div align="center">
-  <img src="https://github.com/LeonardoAmad/LeonardoAmad/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <svg viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg" fill="#ff6f61">
+    <path d="M0 30 V12 Q30 17 55 12 T120 11 V30z">
+      <animate 
+        attributeName="d" 
+        dur="4s" 
+        repeatCount="indefinite"
+        values="
+          M0 30 V12 Q30 17 55 12 T120 11 V30z;
+          M0 30 V14 Q30 19 55 14 T120 13 V30z;
+          M0 30 V12 Q30 17 55 12 T120 11 V30z
+        "
+      />
+    </path>
+  </svg>
 </div>
 
 ---
@@ -62,9 +77,3 @@
 - 🌱 Learning React, Firebase, and mobile development  
 - 💡 Always looking for creative and efficient solutions  
 - 🎯 Focused on becoming a better developer every day  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated footer" width="100%" />
-</p>
