@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f4927e3-e5c1-430f-9b6d-85e498f9c64b/df80ap2-7a0eaaa9-43b3-43c8-a4f3-2b9e093d3c82.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmNDkyN2UzLWU1YzEtNDMwZi05YjZkLTg1ZTQ5OGY5YzY0YlwvZGY4MGFwMi03YTBlYWFhOS00M2IzLTQzYzgtYTRmMy0yYjllMDkzZDNjODIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kzD7JeRIK36dcqyL47WHxVajSq0PNu191MKCWJrWtAk" />
+  <img src="https://media.tenor.com/sW9z6KPyMacAAAAj/mario-kazawsky.gif" />
 </div>
 
 ---
