@@ -18,6 +18,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAmad&layout=compact&langs_count=8&theme=radical&title_color=ff6f61&custom_title=🧠+Languages+I+Use+Most"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github.com/LeonardoAmad/LeonardoAmad/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 ---
 
 ### 🧠 Technologies I'm Learning
@@ -52,13 +58,13 @@
 
 ### 📌 A bit about me:
 
-- 🔭 Currently studying Software Development
-- 🌱 Learning React, Firebase, and mobile development
-- 💡 Always looking for creative and efficient solutions
-- 🎯 Focused on becoming a better developer every day
+- 🔭 Currently studying Software Development  
+- 🌱 Learning React, Firebase, and mobile development  
+- 💡 Always looking for creative and efficient solutions  
+- 🎯 Focused on becoming a better developer every day  
 
 ---
 
 <p align="center">
-  <img src="https://github.com/LeonardoAmad/LeonardoAmad/assets/placeholder-end-banner.gif" alt="cool footer" width="100%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated footer" width="100%" />
 </p>
