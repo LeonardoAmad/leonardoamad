@@ -1,25 +1,26 @@
-<h1 align="center">Hey, I'm Leonardo Amad! 👋</h1>
+<h1 align="center">Hey, I'm Leonardo Amad 👋</h1>
 
 <p align="center">
-  <b>💻 Developer | 🎮 Gamer nas horas vagas | 🚀 Explorando o mundo da programação</b><br>
-  🇧🇷 Bento Gonçalves, RS - Brasil
+  <b>💻 Software Developer | 🎮 Gamer | 🚀 Tech Enthusiast</b><br>
+  📍 Campinas, São Paulo - Brazil 🇧🇷
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+constante+aprendizado;Apaixonado+por+tecnologia+e+inovação;Seja+bem-vindo+ao+meu+GitHub!+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+building+cool+things;Always+learning+new+tech;Welcome+to+my+GitHub+profile!+👨‍💻" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 Meus status no GitHub:
+### 🚀 GitHub Activity Overview
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAmad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAmad&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ff6f61&icon_color=ff6f61&custom_title=🔥+My+GitHub+Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAmad&layout=compact&langs_count=8&theme=radical&title_color=ff6f61&custom_title=🧠+Languages+I+Use+Most"/>
 </div>
 
 ---
 
-### 🧠 Tecnologias que estou aprendendo:
+### 🧠 Technologies I'm Learning
 
 <div align="center" style="display: inline_block"><br>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +34,7 @@
 
 ---
 
-### 🌐 Onde me encontrar:
+### 🌐 Connect with me
 
 <div align="center">
   <a href="mailto:leozinho.amad10@gmail.com" target="_blank">
@@ -49,15 +50,15 @@
 
 ---
 
-### ✨ Um pouco sobre mim:
+### 📌 A bit about me:
 
-- 🔭 Atualmente estudando Desenvolvimento de Sistemas
-- 🌱 Aprendendo: React, Java, Firebase e mais!
-- 💡 Buscando criar soluções criativas e eficientes
-- 🎯 Sempre em busca de evoluir como programador e como pessoa
+- 🔭 Currently studying Software Development
+- 🌱 Learning React, Firebase, and mobile development
+- 💡 Always looking for creative and efficient solutions
+- 🎯 Focused on becoming a better developer every day
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c896&height=120&section=footer"/>
+  <img src="https://github.com/LeonardoAmad/LeonardoAmad/assets/placeholder-end-banner.gif" alt="cool footer" width="100%"/>
 </p>
